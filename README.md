@@ -2,7 +2,7 @@
 
 ## Loadstring [Mobile / PC]
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/b1gsketch/Dex/refs/heads/main/Source.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/0xtremist/Dex/refs/heads/main/Source.lua"))()
 ```
 ## What's New [Modifications]
 * **External Decompiler API Integration:** Integrated the powerful API from lua.expert as the default decompiler. This ensures the cleanest code possible even on executors with poor built-in decompilers, complete with automatic rate-limit handling.
